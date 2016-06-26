@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://jhxt.org//404.html</loc>
+    <loc>http://jhxt.org/2016/06/23/My-New-Post-1/</loc>
     
-    <lastmod>2016-06-26T13:25:46.000Z</lastmod>
+    <lastmod>2016-06-26T23:46:15.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://jhxt.org/about/index.html</loc>
     
-    <lastmod>2016-06-26T12:37:50.000Z</lastmod>
+    <lastmod>2016-06-26T23:39:09.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jhxt.org//404.html</loc>
+    
+    <lastmod>2016-06-26T13:34:20.000Z</lastmod>
     
   </url>
   
@@ -89,13 +96,6 @@
     <loc>http://jhxt.org/2016/06/23/My-New-Post-2/</loc>
     
     <lastmod>2016-06-23T10:52:07.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jhxt.org/2016/06/23/My-New-Post-1/</loc>
-    
-    <lastmod>2016-06-23T10:51:54.000Z</lastmod>
     
   </url>
   

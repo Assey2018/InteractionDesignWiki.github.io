@@ -175,14 +175,26 @@
     <link href="http://jhxt.org/2016/06/23/My-New-Post-1/"/>
     <id>http://jhxt.org/2016/06/23/My-New-Post-1/</id>
     <published>2016-06-23T10:51:54.000Z</published>
-    <updated>2016-06-23T10:51:54.000Z</updated>
+    <updated>2016-06-26T23:46:15.000Z</updated>
     
-    <content type="html"></content>
+    <content type="html">&lt;p&gt;asdfbnmv&lt;/p&gt;
+</content>
     
     <summary type="html">
     
+      &lt;p&gt;asdfbnmv&lt;/p&gt;
+
+    
     </summary>
     
+      <category term="概念" scheme="http://jhxt.org/categories/%E6%A6%82%E5%BF%B5/"/>
+    
+    
+      <category term="test" scheme="http://jhxt.org/tags/test/"/>
+    
+      <category term="2" scheme="http://jhxt.org/tags/2/"/>
+    
+      <category term="3" scheme="http://jhxt.org/tags/3/"/>
     
   </entry>
   
